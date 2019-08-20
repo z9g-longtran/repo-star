@@ -1,9 +1,11 @@
 # repo-star
 
 ## php
+- https://github.com/ziadoz/awesome-php
 ## laravel
 - https://github.com/search?q=laravel
 - https://github.com/chiraggude/awesome-laravel
+- https://github.com/tuandm/laravue
 ## javascript
 - https://github.com/airbnb/javascript
 - https://github.com/chartjs/Chart.js
