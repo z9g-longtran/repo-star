@@ -1,3 +1,5 @@
 - https://github.com/cmderdev/cmder
 - https://github.com/JanDeDobbeleer/oh-my-posh
 - https://github.com/mintty/mintty
+- https://github.com/alacritty/alacritty
+- https://github.com/ansible/ansible
