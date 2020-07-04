@@ -10,8 +10,10 @@
 - https://github.com/airbnb/javascript
 - https://github.com/chartjs/Chart.js
 - https://github.com/search?o=desc&q=vanilla&s=stars&type=Repositories [dragula](https://github.com/bevacqua/dragula) [Vanilla](https://github.com/wesbos/JavaScript30)
+- https://github.com/axios/axios
 ## javascript framework 
 - https://github.com/vuejs/vuex
+- https://github.com/denoland/deno
 ## server
 - https://github.com/cdr/code-server
 ## architect
