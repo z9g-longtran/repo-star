@@ -9,3 +9,5 @@
    * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
    * [NW.js](https://github.com/nwjs/nw.js) Realtime app to write native by html & JS
    * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) make SPA [Example](https://alvarotrigo.com/fullPage/#examples)
+ - 31.10.20
+ #### [article](https://topdev.vn/blog/nhung-lap-trinh-vien-phien-ban-x-men-nhung-code-project-di-nhat-tren-github) by [source](https://www.facebook.com/topdevvietnam/posts/3359794040736369)
