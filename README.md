@@ -14,11 +14,15 @@
 ## javascript framework 
 - https://github.com/vuejs/vuex
 - https://github.com/denoland/deno
+## python
+- https://github.com/TheAlgorithms/Python
+- https://github.com/postmanlabs/httpbin
 ## server
 - https://github.com/cdr/code-server
 - https://github.com/sanvu88/lempstack
 ## architect
 - https://github.com/xingshaocheng/architect-awesome
+- https://github.com/donnemartin/system-design-primer (python)
 ## misc
 - https://github.com/phillipadsmith/awesome-github
 - https://github.com/search?q=awesome
