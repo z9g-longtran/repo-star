@@ -7,6 +7,7 @@
 - https://github.com/chiraggude/awesome-laravel
 - https://github.com/tuandm/laravue
 - https://github.com/LaravelDaily/laravel-tips
+- https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
 ## javascript
 - https://github.com/airbnb/javascript
 - https://github.com/chartjs/Chart.js
