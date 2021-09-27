@@ -21,6 +21,7 @@
 - https://github.com/postmanlabs/httpbin
 - https://github.com/search?o=desc&q=python&s=stars&type=Repositories
 - https://github.com/jackfrued/Python-100-Days
+- https://github.com/vinta/awesome-python
 ## server
 - https://github.com/cdr/code-server
 - https://github.com/sanvu88/lempstack
