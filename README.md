@@ -19,6 +19,8 @@
 ## python
 - https://github.com/TheAlgorithms/Python
 - https://github.com/postmanlabs/httpbin
+- https://github.com/search?o=desc&q=python&s=stars&type=Repositories
+- https://github.com/jackfrued/Python-100-Days
 ## server
 - https://github.com/cdr/code-server
 - https://github.com/sanvu88/lempstack
