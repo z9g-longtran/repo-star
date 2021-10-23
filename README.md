@@ -16,6 +16,8 @@
 ## javascript framework 
 - https://github.com/vuejs/vuex
 - https://github.com/denoland/deno
+## json
+- https://github.com/josdejong/jsoneditor (https://github.com/josdejong/jsoneditor/issues/891#issuecomment-590735273)
 ## python
 - https://github.com/TheAlgorithms/Python
 - https://github.com/postmanlabs/httpbin
