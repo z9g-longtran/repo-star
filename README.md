@@ -16,7 +16,7 @@
 ## javascript framework 
 - https://github.com/vuejs/vuex
 - https://github.com/denoland/deno
-- [Rising Star](https://risingstars.js.org/2021/en) from [https://www.facebook.com/groups/364997627165697/?multi_permalinks=1743309086001204](source)
+- [Rising Star](https://risingstars.js.org/2021/en) from [fb 04.01.22](https://www.facebook.com/groups/364997627165697/?multi_permalinks=1743309086001204)
 ## json
 - https://github.com/josdejong/jsoneditor (https://github.com/josdejong/jsoneditor/issues/891#issuecomment-590735273)
 ## python
