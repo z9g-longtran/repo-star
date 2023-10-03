@@ -1,0 +1,8 @@
+otpauth://totp/Github:at-longtran?secret=qsda5bm4jtwxd5p2&issuer=Github
+otpauth://totp/GitHub:z9gmoon?secret=BO3I4ZUJGLTK4DR7&issuer=GitHub
+otpauth://totp/Amazon%20Web%20Services:dev4%40311196280407?secret=WLKTHHTRSG3WZLYY6V7RKNIQFJ2G3H2VG5M4PI3O3PCQDR6RE74EUTQAOOWBYSRK&issuer=Amazon%20Web%20Services
+otpauth://totp/Google:long.tran%40monstar-lab.com?secret=dhatlfbkgwtzcfdmzzwdpiu5yftxzwsl&issuer=Google
+otpauth://totp/JumpCloud%20User:long.tran%40asiantech.vn?secret=HYBC2RCKBZS6IKZZ4UNHVE6ZM7E64UHM&issuer=JumpCloud%20User
+otpauth://totp/Amazon%20Web%20Services:AT_LONGTRAN%40772468693720?secret=LFSVHP5LHXOELL2QYKXPXPRIIUF2CIP2QG24STHL42IC7DNRBOHLIXU4DJR4B3CK&issuer=Amazon%20Web%20Services
+otpauth://totp/Slack:long.tran%40asiantech.vn?secret=6TIYWMUTWMPUB72J&issuer=Slack
+otpauth://totp/Google:long.tran%40asiantech.vn?secret=fnsbfb7nocduru4hypcora2kzucsjlf4&issuer=Google
