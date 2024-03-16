@@ -7,6 +7,7 @@
 - https://github.com/ixartz/Next-js-Boilerplate
 ### 16.03.2024
 - https://github.com/krahets/hello-algo #cn #algo [www.hello-algo.com](www.hello-algo.com)
+  - https://github.com/krahets/LeetCode-Book #algo
 - https://github.com/redis/go-redis
   - https://github.com/redis/node-redis
 - https://github.com/google/googletest
