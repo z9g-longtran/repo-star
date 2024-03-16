@@ -20,3 +20,7 @@
 - https://github.com/NanmiCoder/MediaCrawler #cn
   - https://github.com/pppscn/SmsForwarder #cn
   - https://github.com/ReaJason/xhs #cn
+
+- https://github.com/topics/captcha
+- https://github.com/dessant/buster #playwright
+- https://github.com/mojocn/base64Captcha #cn #playwright
