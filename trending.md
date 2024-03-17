@@ -28,3 +28,5 @@
 - https://github.com/topics/captcha
 - https://github.com/dessant/buster #playwright
 - https://github.com/mojocn/base64Captcha #cn #playwright
+### 17.03.2024
+- https://github.com/Cuadrix/puppeteer-page-proxy
