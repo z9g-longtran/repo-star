@@ -13,6 +13,7 @@
 - https://github.com/google/googletest
 - https://github.com/dotnet/aspnetcore
 - https://github.com/lionsoul2014/ip2region #cn
+- https://github.com/tiangolo/full-stack-fastapi-template
 
 - https://github.com/trending/python?since=daily
 - https://github.com/tiangolo/fastapi
