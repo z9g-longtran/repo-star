@@ -30,3 +30,6 @@
 - https://github.com/mojocn/base64Captcha #cn #playwright
 ### 17.03.2024
 - https://github.com/Cuadrix/puppeteer-page-proxy
+- https://github.com/Vinyzu/Botright #fork
+  - https://github.com/kaliiiiiiiiii/Selenium-Interceptor
+  - https://github.com/MaxAndolini/hCaptcha-Images
