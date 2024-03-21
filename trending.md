@@ -44,3 +44,6 @@
   - https://github.com/fate0/pychrome
   - https://github.com/antoinevastel/fp-collect
   - https://github.com/fate0/pychrome
+  - https://github.com/CheshireCaat/puppeteer-with-fingerprints (https://fp.bablosoft.com/) (change canvas,webgl,videocard,audiodata-setting,fontlist,webrtcIP,browserLanguage,timezone,plugin,screenProperties,useragent,platformId,touchsupport,batteryProperties,donottrack,gamepad,geo,usbDevice,svg reading,navigator reading,header order)
+    - https://github.com/z9g-longtran/repo-star/assets/13017712/41fbc48f-3a5f-4645-a58b-d88b1ab7d453
+
