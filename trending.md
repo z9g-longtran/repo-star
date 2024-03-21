@@ -35,6 +35,7 @@
   - https://github.com/MaxAndolini/hCaptcha-Images
 ### 21.03.2024
 - https://github.com/TeamHG-Memex/scrapy-rotating-proxies
+- https://github.com/Xewdy444/Playwright-reCAPTCHA (audio challenge by Google speech recognition API, v3 by https://www.google.com/recaptcha/api2/reload and parse response to get token)
 - https://github.com/explore
   - https://github.com/apify/fingerprint-generator
   - https://github.com/HyperionGray/python-chrome-devtools-protocol
