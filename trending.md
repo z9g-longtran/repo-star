@@ -42,3 +42,5 @@
   - https://github.com/MeiK2333/pyppeteer_stealth
   - https://github.com/intoli/user-agents
   - https://github.com/fate0/pychrome
+  - https://github.com/antoinevastel/fp-collect
+  - https://github.com/fate0/pychrome
