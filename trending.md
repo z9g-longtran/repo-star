@@ -33,3 +33,11 @@
 - https://github.com/Vinyzu/Botright #fork
   - https://github.com/kaliiiiiiiiii/Selenium-Interceptor
   - https://github.com/MaxAndolini/hCaptcha-Images
+### 21.03.2024
+- https://github.com/TeamHG-Memex/scrapy-rotating-proxies
+- https://github.com/explore
+  - https://github.com/apify/fingerprint-generator
+  - https://github.com/HyperionGray/python-chrome-devtools-protocol
+  - https://github.com/MeiK2333/pyppeteer_stealth
+  - https://github.com/intoli/user-agents
+  - https://github.com/fate0/pychrome
