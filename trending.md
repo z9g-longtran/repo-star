@@ -47,8 +47,11 @@
   - https://github.com/CheshireCaat/puppeteer-with-fingerprints (https://fp.bablosoft.com/) (change canvas,webgl,videocard,audiodata-setting,fontlist,webrtcIP,browserLanguage,timezone,plugin,screenProperties,useragent,platformId,touchsupport,batteryProperties,donottrack,gamepad,geo,usbDevice,svg reading,navigator reading,header order)
     - https://github.com/z9g-longtran/repo-star/assets/13017712/41fbc48f-3a5f-4645-a58b-d88b1ab7d453
 ### 26.03.2024
+- https://github.com/explore
 - https://github.com/michaelkitas/Python-Selenium-Tutorial
 - https://github.com/karimelkomy/Python-Test-Automation-Framework
 - https://github.com/QIN2DIM/undetected-playwright
 - https://github.com/yujiosaka/headless-chrome-crawler
 - https://github.com/OpenDevin/OpenDevin
+- https://github.com/Vinyzu/chrome-fingerprints (10k collected fingerprint)
+- https://github.com/ulixee/unblocked
