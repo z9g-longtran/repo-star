@@ -57,3 +57,7 @@
 - https://github.com/ulixee/unblocked
 ### 29.03.2024
 - https://github.com/gologinapp/pygologin
+### 31.03.2024
+- https://github.com/apify/fingerprint-injector
+- https://github.com/danielgatis/puppeteer-recaptcha-solver #example #recaptcha #v2 #fork
+- https://github.com/noCaptchaAi/hCaptchaSolver.user.js #tampermonkey #fork
