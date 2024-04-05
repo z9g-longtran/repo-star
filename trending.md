@@ -61,3 +61,8 @@
 - https://github.com/apify/fingerprint-injector
 - https://github.com/danielgatis/puppeteer-recaptcha-solver #example #recaptcha #v2 #fork
 - https://github.com/noCaptchaAi/hCaptchaSolver.user.js #tampermonkey #fork
+### 05.04.2024
+- https://github.com/kaliiiiiiiiii/Selenium-Profiles (Undetected by Google, Cloudflare, creep-js using selenium-driverless) (Modifying headers supported using Selenium-Interceptor or seleniumwire) (touch action)
+- https://github.com/apify/fingerprint-suite (playwright)
+- https://github.com/zyronon/douyin #study
+- https://github.com/princeton-nlp/SWE-agent #modelGPT
