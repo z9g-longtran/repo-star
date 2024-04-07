@@ -66,3 +66,5 @@
 - https://github.com/apify/fingerprint-suite (playwright)
 - https://github.com/zyronon/douyin #study
 - https://github.com/princeton-nlp/SWE-agent #modelGPT
+### 07.04.2024
+- https://github.com/Xewdy444/CF-Clearance-Scraper (https://nowsecure.nl)
