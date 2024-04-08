@@ -68,3 +68,5 @@
 - https://github.com/princeton-nlp/SWE-agent #modelGPT
 ### 07.04.2024
 - https://github.com/Xewdy444/CF-Clearance-Scraper (https://nowsecure.nl)
+### 08.04.2024
+- https://github.com/NopeCHALLC/nopecha-python (https://nopecha.com/pricing)
