@@ -79,5 +79,5 @@
   - https://github.com/dessant/buster?tab=readme-ov-file
     - https://github.com/dessant/buster-client#readme
 - https://github.com/tieyongjie/scrapy-fingerprint #cn #folk
-- https://github.com/lcyyzy/CaptchaCracker #folk (sliding selenium) #folk
+- https://github.com/lcyyzy/CaptchaCracker #folk (sliding selenium) #cn
   - https://github.com/lcyyzy/UIAutomatorScript
