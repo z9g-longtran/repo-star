@@ -72,3 +72,12 @@
 - https://github.com/NopeCHALLC/nopecha-python (https://nopecha.com/pricing)
 ### 10.04.2024
 - https://github.com/Kbot19/rdp-ngrok
+### 26.04.2024
+- *https://github.com/Smartproxy/Selenium-proxy-authentication (extension make proxy) #folk
+- https://github.com/teal33t/captcha_bypass?tab=readme-ov-file (bypass recaptcha v2 audio,xpi) #folk
+  - https://medium.com/analytics-vidhya/how-to-easily-bypass-recaptchav2-with-selenium-7f7a9a44fa9e
+  - https://github.com/dessant/buster?tab=readme-ov-file
+    - https://github.com/dessant/buster-client#readme
+- https://github.com/tieyongjie/scrapy-fingerprint #cn #folk
+- https://github.com/lcyyzy/CaptchaCracker #folk (sliding selenium) #folk
+  - https://github.com/lcyyzy/UIAutomatorScript
