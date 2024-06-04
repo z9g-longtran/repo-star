@@ -81,3 +81,5 @@
 - https://github.com/tieyongjie/scrapy-fingerprint #cn #folk
 - https://github.com/lcyyzy/CaptchaCracker #folk (sliding selenium) #cn
   - https://github.com/lcyyzy/UIAutomatorScript
+### 4.6.24
+- https://github.com/AykutSarac/jsoncrack.com #web
