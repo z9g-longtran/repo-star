@@ -84,12 +84,12 @@
 ### 4.6.24
 - https://github.com/AykutSarac/jsoncrack.com #web
 ### 4.7.24
-- https://github.com/nadoo/glider (proxy-genlogin)
+- https://github.com/nadoo/glider #note (proxy-genlogin) (for forward proxy)
   - *https://github.com/topics/tunnel
     - https://github.com/mmatczuk/go-http-tunnel
-    - https://github.com/fatedier/frp
+    - https://github.com/fatedier/frp #note (forward tcp)
   - https://github.com/topics/proxy
     - https://github.com/2dust/v2rayN
     - https://github.com/shadowsocks/shadowsocks-windows
-    - https://github.com/avwo/whistle
+    - https://github.com/avwo/whistle #cn
       - https://github.com/avwo https://github.com/Tencent/nohost
