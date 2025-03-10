@@ -1,0 +1,11 @@
+### Frontend
+ - https://github.com/facebook/react
+ - https://github.com/vuejs
+### Fullstack
+ - https://github.com/nuxt/nuxt
+ - https://github.com/vercel/next.js/
+### Node
+ - https://github.com/PrismJS/prism
+ - https://github.com/socketio/socket.io
+ - https://github.com/drizzle-team/drizzle-orm
+ - https://github.com/expressjs/express
