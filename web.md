@@ -14,6 +14,7 @@
    - https://github.com/socketio/socket.io
    - https://github.com/apocas/dockerode (https://www.npmjs.com/package/dockerode) 
      - Container(create),image(create,load,build),volume,network,plugin,service,task-node-secret-config-exec-swarm
+     - @balena/dockerignore @grpc/grpc-js @grpc/proto-loader docker-modem protobufjs tar-fs uuid
  - Server
    - https://github.com/expressjs/express
  - Typescript
