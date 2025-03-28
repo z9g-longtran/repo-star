@@ -93,3 +93,10 @@
     - https://github.com/shadowsocks/shadowsocks-windows
     - https://github.com/avwo/whistle #cn
       - https://github.com/avwo https://github.com/Tencent/nohost
+### 28.3.24
+- https://github.com/kern/filepizza (webrtc upload) (https://file.pizza/)
+- https://github.com/cline/cline
+- https://github.com/Shubhamsaboo/awesome-llm-apps
+- https://github.com/khoj-ai/khoj
+- https://github.com/juspay/hyperswitch
+- https://github.com/n8n-io/n8n
