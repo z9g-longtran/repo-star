@@ -93,7 +93,7 @@
     - https://github.com/shadowsocks/shadowsocks-windows
     - https://github.com/avwo/whistle #cn
       - https://github.com/avwo https://github.com/Tencent/nohost
-### 28.3.24
+### 28.3.25
 - https://github.com/kern/filepizza (webrtc upload) (https://file.pizza/)
 - https://github.com/cline/cline
 - https://github.com/Shubhamsaboo/awesome-llm-apps
@@ -101,3 +101,8 @@
 - https://github.com/juspay/hyperswitch
 - https://github.com/n8n-io/n8n
 - https://github.com/ibttf/interview-coder
+### 29.3.25
+- https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/jlowin/fastmcp
+- https://github.com/grpc/grpc-go
+- https://github.com/gogs/gogs (git service)
