@@ -106,3 +106,10 @@
 - https://github.com/jlowin/fastmcp
 - https://github.com/grpc/grpc-go
 - https://github.com/gogs/gogs (git service)
+### 31.3.25
+- https://github.com/unclecode/crawl4ai
+- https://github.com/th-ch/youtube-music
+- https://github.com/microsoft/generative-ai-for-beginners
+- https://github.com/supabase-community/postgres-language-server
+- https://github.com/bytedance/MegaTTS3
+- https://github.com/ahmedkhaleel2004/gitdiagram
