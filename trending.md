@@ -113,3 +113,11 @@
 - https://github.com/supabase-community/postgres-language-server
 - https://github.com/bytedance/MegaTTS3
 - https://github.com/ahmedkhaleel2004/gitdiagram
+### 09.04.25
+- https://github.com/github/github-mcp-server
+- https://github.com/microsoft/markitdown
+- https://github.com/getmaxun/maxun (Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes) https://www.maxun.dev/
+- https://github.com/datawhalechina/llm-cookbook
+- https://github.com/SimplifyJobs/Summer2025-Internships
+- https://github.com/clockworklabs/SpacetimeDB
+- https://github.com/meta-llama/llama-cookbook
