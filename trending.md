@@ -121,3 +121,9 @@
 - https://github.com/SimplifyJobs/Summer2025-Internships
 - https://github.com/clockworklabs/SpacetimeDB
 - https://github.com/meta-llama/llama-cookbook
+### 10.04.25
+- https://github.com/jiji262/douyin-downloader #example #logger
+  - https://github.com/jiji262?tab=repositories
+- https://github.com/LC044/WeChatMsg
+- https://github.com/ripienaar/free-for-dev #markdown (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev) https://free-for.dev/
+- https://github.com/patchy631/ai-engineering-hub
