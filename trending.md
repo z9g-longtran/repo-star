@@ -127,3 +127,13 @@
 - https://github.com/LC044/WeChatMsg
 - https://github.com/ripienaar/free-for-dev #markdown (A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev) https://free-for.dev/
 - https://github.com/patchy631/ai-engineering-hub
+### 13.04.25
+- https://github.com/krillinai/KrillinAI
+- https://github.com/microsoft/ai-agents-for-beginners
+- https://github.com/yeongpin/cursor-free-vip
+  - https://github.com/yeongpin/LanLocalChat
+- https://github.com/colinhacks/zod
+- https://github.com/bregman-arie/devops-exercises
+- https://github.com/freqtrade/freqtrade
+- https://github.com/stanfordnlp/dspy
+## https://trendshift.io/?trending-range=30&trending-limit=100
