@@ -149,3 +149,6 @@
 - https://github.com/nautechsystems/nautilus_trader https://nautilustrader.io/
 - https://github.com/fuma-nama/fumadocs (doc next.js) https://fumadocs.vercel.app/
 - https://github.com/Budibase/budibase https://budibase.com/ #workflow-automation
+### 16.04.25
+- https://github.com/NirDiamant/RAG_Techniques
+- https://github.com/pdone/FreeControl
