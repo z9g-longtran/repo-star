@@ -151,4 +151,6 @@
 - https://github.com/Budibase/budibase https://budibase.com/ #workflow-automation
 ### 16.04.25
 - https://github.com/NirDiamant/RAG_Techniques
-- https://github.com/pdone/FreeControl
+- https://github.com/pdone/FreeControl #android
+### 17.04.25
+- https://github.com/DioxusLabs/dioxus (fullstack app) #rust
