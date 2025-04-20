@@ -155,3 +155,14 @@
 ### 17.04.25
 - https://github.com/DioxusLabs/dioxus (fullstack app) #rust
 - https://github.com/ibilux/MobyDroid #android
+### 20.04.25
+- https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- https://github.com/1Panel-dev/1Panel
+- https://github.com/elie222/inbox-zero
+- https://github.com/public-apis/public-apis https://apilayer.com
+- https://github.com/browserbase/stagehand https://stagehand.dev/
+- https://github.com/nocobase/nocobase https://www.nocobase.com/
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/wanglin2/mind-map
+- https://wanglin2.github.io/mind-map-docs/ #cn https://wanglin2.github.io/mind-map-docs/
