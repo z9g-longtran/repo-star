@@ -156,7 +156,7 @@
 - https://github.com/DioxusLabs/dioxus (fullstack app) #rust
 - https://github.com/ibilux/MobyDroid #android
 ### 20.04.25
-- https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/kamranahmedse/developer-roadmap #important https://roadmap.sh/
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - https://github.com/1Panel-dev/1Panel
 - https://github.com/elie222/inbox-zero
@@ -164,5 +164,14 @@
 - https://github.com/browserbase/stagehand https://stagehand.dev/
 - https://github.com/nocobase/nocobase https://www.nocobase.com/
 - https://github.com/jwasham/coding-interview-university
-- https://github.com/wanglin2/mind-map
-- https://wanglin2.github.io/mind-map-docs/ #cn https://wanglin2.github.io/mind-map-docs/
+- https://github.com/wanglin2/mind-map https://wanglin2.github.io/mind-map-docs/ #cn
+### 23.04.25
+- https://github.com/drawdb-io/drawdb https://drawdb.app/
+- https://github.com/pocketbase/pocketbase https://pocketbase.io/ #go (realtime BE)
+- https://github.com/CoatiSoftware/Sourcetrail #c++ (source explorer)
+- https://github.com/The-Pocket/Tutorial-Codebase-Knowledge #llm https://the-pocket.github.io/Tutorial-Codebase-Knowledge/
+- https://github.com/The-Pocket/PocketFlow (100 LLM)
+	- https://github.com/The-Pocket/PocketFlow-Template-Python/blob/main/.cursorrules
+- https://github.com/WerWolv/ImHex https://imhex.werwolv.net/
+  
+
