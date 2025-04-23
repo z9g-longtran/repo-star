@@ -170,7 +170,7 @@
 - https://github.com/pocketbase/pocketbase https://pocketbase.io/ #go (realtime BE)
 - https://github.com/CoatiSoftware/Sourcetrail #c++ (source explorer)
 - https://github.com/The-Pocket/Tutorial-Codebase-Knowledge #llm https://the-pocket.github.io/Tutorial-Codebase-Knowledge/
-- https://github.com/The-Pocket/PocketFlow (100 LLM)
+- https://github.com/The-Pocket/PocketFlow (100 LLM) (graph) #important #example
 	- https://github.com/The-Pocket/PocketFlow-Template-Python/blob/main/.cursorrules
 - https://github.com/WerWolv/ImHex https://imhex.werwolv.net/
   
