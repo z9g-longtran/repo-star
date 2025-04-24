@@ -145,7 +145,7 @@
 - https://github.com/vanna-ai/vanna (db via LLMs using RAG,Vector Storage)
 	rag la gi	https://200lab.io/blog/rag-la-gi
 - https://github.com/gofr-dev/gofr (golang accelerated microservice development) https://gofr.dev/
-- https://github.com/gofiber/fiber (express for go)
+- https://github.com/gofiber/fiber (express for go) https://gofiber.io/
 - https://github.com/nautechsystems/nautilus_trader https://nautilustrader.io/
 - https://github.com/fuma-nama/fumadocs (doc next.js) https://fumadocs.vercel.app/
 - https://github.com/Budibase/budibase https://budibase.com/ #workflow-automation
