@@ -173,5 +173,10 @@
 - https://github.com/The-Pocket/PocketFlow (100 LLM) (graph) #important #example
 	- https://github.com/The-Pocket/PocketFlow-Template-Python/blob/main/.cursorrules
 - https://github.com/WerWolv/ImHex https://imhex.werwolv.net/
-  
-
+### 24.04.25
+- https://github.com/hydralauncher/hydra (gamge launcher) https://hydralauncher.gg/
+- https://github.com/bytedance/UI-TARS #agent
+- https://github.com/microsoft/markitdown #lib 
+- https://github.com/PKUFlyingPig/cs-self-learning #computerscience #china (https://csdiy.wiki/好书推荐/#_18 -> https://book.douban.com/subject/30288807/)
+- https://github.com/anthropics/courses
+- https://github.com/jwasham/coding-interview-university
