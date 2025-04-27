@@ -184,3 +184,5 @@
 - https://github.com/jujumilk3/leaked-system-prompts #important
 - https://github.com/kortix-ai/suna https://www.suna.so/
 - https://github.com/cloudcommunity/Free-Certifications https://free-certifications.com/
+### 27.04.25
+- https://github.com/opencode-ai/opencode
