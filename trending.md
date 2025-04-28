@@ -133,7 +133,7 @@
 - https://github.com/yeongpin/cursor-free-vip
   - https://github.com/yeongpin/LanLocalChat
 - https://github.com/colinhacks/zod
-- https://github.com/bregman-arie/devops-exercises
+- https://github.com/bregman-arie/devops-exercises 75k
 - https://github.com/freqtrade/freqtrade
 - https://github.com/stanfordnlp/dspy
 ## https://trendshift.io/?trending-range=30&trending-limit=100
@@ -186,3 +186,14 @@
 - https://github.com/cloudcommunity/Free-Certifications https://free-certifications.com/
 ### 27.04.25
 - https://github.com/opencode-ai/opencode
+### 28.04.25
+- https://github.com/Stirling-Tools/Stirling-PDF https://stirlingpdf.com/ (pdf on local) 57k star
+- https://github.com/rowboatlabs/rowboat 2k https://www.rowboatlabs.com/ (aibuild multi-agent)
+- https://github.com/getzep/graphiti 7k https://help.getzep.com/graphiti (realtime graph for AiAgent)
+- https://github.com/trimstray/the-book-of-secret-knowledge 167k (collection cheatsheet)
+- https://github.com/2dust/v2rayN 78k https://1.2345345.xyz/
+- https://github.com/simular-ai/Agent-S https://www.simular.ai/agent-s2 (computer use)
+- https://github.com/codecrafters-io/build-your-own-x https://codecrafters.io/ 376k
+- https://github.com/0xk1h0/ChatGPT_DAN 8k (jailbreak prompt)
+- https://github.com/Raphire/Win11Debloat 19k
+- https://github.com/lapce/lapce (texteditor) 35k7
