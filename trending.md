@@ -197,3 +197,9 @@
 - https://github.com/0xk1h0/ChatGPT_DAN 8k (jailbreak prompt)
 - https://github.com/Raphire/Win11Debloat 19k
 - https://github.com/lapce/lapce (texteditor) 35k7
+### 2.5.25
+- https://github.com/hacksider/Deep-Live-Cam
+- https://github.com/teableio/teable
+- https://github.com/louislam/uptime-kuma
+- https://github.com/daytonaio/daytona
+- https://github.com/open-webui/open-webui
