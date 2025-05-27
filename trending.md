@@ -203,3 +203,6 @@
 - https://github.com/louislam/uptime-kuma
 - https://github.com/daytonaio/daytona
 - https://github.com/open-webui/open-webui
+### 27.5.25
+- https://github.com/groupultra/telegram-search
+- https://github.com/Fosowl/agenticSeek
