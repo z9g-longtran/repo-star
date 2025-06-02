@@ -206,3 +206,7 @@
 ### 27.5.25
 - https://github.com/groupultra/telegram-search
 - https://github.com/Fosowl/agenticSeek
+### 2.6.25
+- https://github.com/syncthing/syncthing (Open Source Continuous File Synchronization)
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/onlook-dev/onlook
