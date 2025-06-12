@@ -193,16 +193,16 @@
 - https://github.com/trimstray/the-book-of-secret-knowledge 167k (collection cheatsheet)
 - https://github.com/2dust/v2rayN 78k https://1.2345345.xyz/
 - https://github.com/simular-ai/Agent-S https://www.simular.ai/agent-s2 (computer use)
-- https://github.com/codecrafters-io/build-your-own-x https://codecrafters.io/ 376k
+- https://github.com/codecrafters-io/build-your-own-x https://codecrafters.io/ 376k #project
 - https://github.com/0xk1h0/ChatGPT_DAN 8k (jailbreak prompt)
 - https://github.com/Raphire/Win11Debloat 19k
 - https://github.com/lapce/lapce (texteditor) 35k7
 ### 2.5.25
 - https://github.com/hacksider/Deep-Live-Cam
-- https://github.com/teableio/teable
-- https://github.com/louislam/uptime-kuma
+- https://github.com/teableio/teable (The Next Gen Airtable Alternative: No-Code Postgres) https://teable.io/
+- https://github.com/louislam/uptime-kuma (A fancy self-hosted monitoring tool) https://uptime.kuma.pet/
 - https://github.com/daytonaio/daytona
-- https://github.com/open-webui/open-webui
+- https://github.com/open-webui/open-webui (User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (https://openwebui.com/)
 ### 27.5.25
 - https://github.com/groupultra/telegram-search
 - https://github.com/Fosowl/agenticSeek
@@ -210,3 +210,9 @@
 - https://github.com/syncthing/syncthing (Open Source Continuous File Synchronization)
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/onlook-dev/onlook
+
+### 12.6.25
+- https://github.com/practical-tutorials/project-based-learning #important #project 231k
+- https://github.com/alphacep/vosk-api (Offline speech recognition API for Android, iOS, Raspberry Pi)
+- https://github.com/jdepoix/youtube-transcript-api
+- https://github.com/apple/container (need macos 15 and swift)
