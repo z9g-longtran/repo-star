@@ -216,3 +216,11 @@
 - https://github.com/alphacep/vosk-api (Offline speech recognition API for Android, iOS, Raspberry Pi)
 - https://github.com/jdepoix/youtube-transcript-api
 - https://github.com/apple/container (need macos 15 and swift)
+
+### 24.6.25
+- https://github.com/microsoft/edit
+- https://github.com/voideditor/void https://voideditor.com/ (like cursor)
+- https://github.com/ghostty-org/ghostty (terminal emulator) https://ghostty.org/
+- https://github.com/typst/typst (markup) https://typst.app/
+- https://github.com/microsoft/Web-Dev-For-Beginners #project https://microsoft.github.io/Web-Dev-For-Beginners/
+- https://github.com/localsend/localsend
