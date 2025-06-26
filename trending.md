@@ -224,3 +224,7 @@
 - https://github.com/typst/typst (markup) https://typst.app/
 - https://github.com/microsoft/Web-Dev-For-Beginners #project https://microsoft.github.io/Web-Dev-For-Beginners/
 - https://github.com/localsend/localsend
+
+### 26.6.25
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- https://github.com/mikeroyal/Self-Hosting-Guide
