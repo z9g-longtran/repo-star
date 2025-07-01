@@ -228,3 +228,11 @@
 ### 26.6.25
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/mikeroyal/Self-Hosting-Guide
+
+### 1.7.25
+- https://github.com/actualbudget/actual (https://actualbudget.org/) (A local-first personal finance app)
+- https://github.com/nextcloud/all-in-one (https://nextcloud.com/blog/how-to-install-the-nextcloud-all-in-one-on-linux/) php
+- https://github.com/swisskyrepo/PayloadsAllTheThings #security 69k https://swisskyrepo.github.io/PayloadsAllTheThings/Headless%20Browser
+- https://github.com/aldinokemal/go-whatsapp-web-multidevice
+- *https://github.com/snailyp/gemini-balance #proxy-balance
+- https://github.com/007revad/Synology_HDD_db
