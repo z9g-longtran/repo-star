@@ -236,3 +236,13 @@
 - https://github.com/aldinokemal/go-whatsapp-web-multidevice
 - *https://github.com/snailyp/gemini-balance #proxy-balance
 - https://github.com/007revad/Synology_HDD_db
+
+### 3.7.25
+- https://github.com/mrdoob/three.js
+- https://github.com/NginxProxyManager/nginx-proxy-manager
+- https://github.com/binwiederhier/ntfy (push notification)
+- https://github.com/NanmiCoder/MediaCrawler https://nanmicoder.github.io/MediaCrawler/ #cn
+- https://github.com/microsoft/vscode-copilot-chat
+
+### 4.7.25
+- https://github.com/The-Cool-Coders/Project-Ideas-And-Resources #project
