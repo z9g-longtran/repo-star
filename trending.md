@@ -246,3 +246,8 @@
 
 ### 4.7.25
 - https://github.com/The-Cool-Coders/Project-Ideas-And-Resources #project
+
+### 11.7.25
+- https://github.com/WordPress/wordpress-develop
+- https://github.com/ByteByteGoHq/system-design-101
+- https://github.com/pybind/pybind11
