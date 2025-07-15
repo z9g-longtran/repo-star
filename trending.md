@@ -251,3 +251,10 @@
 - https://github.com/WordPress/wordpress-develop
 - https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/pybind/pybind11
+
+### 15.7.25
+- https://github.com/vercel/commerce https://demo.vercel.store/
+- https://github.com/OpenCut-app/OpenCut https://opencut.app/
+- https://github.com/ripienaar/free-for-dev
+- https://github.com/comfyanonymous/ComfyUI
+- https://github.com/leaningtech/webvm https://webvm.io/
