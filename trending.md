@@ -258,3 +258,7 @@
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/comfyanonymous/ComfyUI
 - https://github.com/leaningtech/webvm https://webvm.io/
+
+## 16.7.25
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- https://github.com/browserbase/stagehand https://stagehand.dev/
