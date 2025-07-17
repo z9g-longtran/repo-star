@@ -262,3 +262,10 @@
 ## 16.7.25
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 - https://github.com/browserbase/stagehand https://stagehand.dev/
+
+## 17.7.25
+- https://github.com/rustdesk/rustdesk https://rustdesk.com/ (alter teamview) 93k2
+- https://github.com/PromtEngineer/localGPT
+- https://github.com/vanna-ai/vanna (chat with sql)
+- https://github.com/maotoumao/MusicFree
+- https://github.com/vpnhood/VpnHood
