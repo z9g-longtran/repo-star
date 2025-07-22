@@ -269,3 +269,7 @@
 - https://github.com/vanna-ai/vanna (chat with sql)
 - https://github.com/maotoumao/MusicFree
 - https://github.com/vpnhood/VpnHood
+
+## 22.7.25
+- https://github.com/ChatGPTNextWeb/NextChat
+- https://github.com/C4illin/ConvertX
