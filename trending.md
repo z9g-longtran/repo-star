@@ -273,3 +273,15 @@
 ## 22.7.25
 - https://github.com/ChatGPTNextWeb/NextChat
 - https://github.com/C4illin/ConvertX
+
+## 04.08.25
+- https://github.com/dyad-sh/dyad https://dyad.sh/ (alter lovable,bolt)
+- https://github.com/wg-easy/wg-easy https://wg-easy.github.io/wg-easy/latest/ (wireguard VPN, admin UI)
+- https://github.com/trekhleb/javascript-algorithms 193k star
+- https://github.com/XTLS/Xray-core https://t.me/projectXray (v2ray-core)
+- https://github.com/jellyfin/jellyfin https://jellyfin.org/ (free softward media system, api & backend)
+- https://github.com/LadybirdBrowser/ladybird https://ladybird.org/ (truly independent webbrowser)
+- https://github.com/sst/opencode https://opencode.ai/ (ai coding agent for build terminal)
+- https://github.com/TandoorRecipes/recipes https://docs.tandoor.dev/ (digital recipes)
+- https://github.com/reflex-dev/reflex (https://reflex.dev/) webapp in pure python
+- https://github.com/MotiaDev/motia (https://motia.dev/) modern backend framework
