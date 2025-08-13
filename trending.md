@@ -208,7 +208,7 @@
 - https://github.com/Fosowl/agenticSeek
 ### 2.6.25
 - https://github.com/syncthing/syncthing (Open Source Continuous File Synchronization)
-- https://github.com/donnemartin/system-design-primer
+- https://github.com/donnemartin/system-design-primer 315k
 - https://github.com/onlook-dev/onlook
 
 ### 12.6.25
@@ -285,3 +285,18 @@
 - https://github.com/TandoorRecipes/recipes https://docs.tandoor.dev/ (digital recipes)
 - https://github.com/reflex-dev/reflex (https://reflex.dev/) webapp in pure python
 - https://github.com/MotiaDev/motia (https://motia.dev/) modern backend framework
+
+## 13.08.25
+- https://github.com/FiloSottile/mkcert https://mkcert.dev/ 55k (make zero-config custom certificate)
+- https://github.com/actions/checkout https://github.com/features/actions 6k9 (checking out a repo - github action)
+- https://github.com/fastapi/full-stack-fastapi-template 36k3
+- https://github.com/setube/vue-xiuxiangame https://xiuxian.wenzi.games/ #cn 1k5
+- https://github.com/xiaoyaocz/dart_simple_live #cn #API
+- https://github.com/redis/go-redis https://redis.io/ (redis with golang) 21k2
+- https://github.com/ChrisTitusTech/linutil https://christitus.com/ (Linux Toolbox) and android article 4k
+- https://github.com/trailofbits/buttercup 718 (patches software vulnerabilities)
+- https://github.com/mendableai/open-lovable 7k2 (build reactapp by https://firecrawl.dev/?ref=open-lovable-github)
+- https://github.com/ubicloud/ubicloud 7k (opensource alter aws)(diff of openstack)
+- https://github.com/nomic-ai/gpt4all 76k1 (local llm:meta-llama)
+- https://github.com/umami-software/umami (alter googleAnalytic) 29k6
+- https://github.com/unslothai/notebooks https://docs.unsloth.ai/ (finetuning llm notebook) 3k
