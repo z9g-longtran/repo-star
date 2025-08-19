@@ -300,3 +300,7 @@
 - https://github.com/nomic-ai/gpt4all 76k1 (local llm:meta-llama)
 - https://github.com/umami-software/umami (alter googleAnalytic) 29k6
 - https://github.com/unslothai/notebooks https://docs.unsloth.ai/ (finetuning llm notebook) 3k
+
+## 19.08.25
+- https://github.com/enescingoz/awesome-n8n-templates
+- https://github.com/immich-app/immich https://immich.app/
