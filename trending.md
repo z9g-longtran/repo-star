@@ -304,3 +304,9 @@
 ## 19.08.25
 - https://github.com/enescingoz/awesome-n8n-templates
 - https://github.com/immich-app/immich https://immich.app/
+
+## 20.08.25
+- https://github.com/cnlohr/rawdrawandroid (build android app in c, not java)
+- https://github.com/LANDrop/LANDrop
+- https://github.com/n8n-io/self-hosted-ai-starter-kit
+- https://github.com/ComposersDesktop/CDP8
