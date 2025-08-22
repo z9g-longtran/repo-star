@@ -310,3 +310,8 @@
 - https://github.com/LANDrop/LANDrop
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
 - https://github.com/ComposersDesktop/CDP8
+
+## 22.08.25
+- https://github.com/nextjs/saas-starter https://next-saas-start.vercel.app/
+- https://github.com/google/googletest https://google.github.io/googletest/
+- https://github.com/Budibase/budibase https://budibase.com/ (automate workflow)
