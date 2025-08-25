@@ -148,7 +148,7 @@
 - https://github.com/gofiber/fiber (express for go) https://gofiber.io/
 - https://github.com/nautechsystems/nautilus_trader https://nautilustrader.io/
 - https://github.com/fuma-nama/fumadocs (doc next.js) https://fumadocs.vercel.app/
-- https://github.com/Budibase/budibase https://budibase.com/ #workflow-automation
+- https://github.com/Budibase/budibase https://budibase.com/ #workflow-automation 26k3
 ### 16.04.25
 - https://github.com/NirDiamant/RAG_Techniques
 - https://github.com/pdone/FreeControl #android
@@ -315,3 +315,12 @@
 - https://github.com/nextjs/saas-starter https://next-saas-start.vercel.app/
 - https://github.com/google/googletest https://google.github.io/googletest/
 - https://github.com/Budibase/budibase https://budibase.com/ (automate workflow)
+
+## 25.08.25
+- https://github.com/winapps-org/winapps (Run Windows apps such as Microsoft in Linux) 6k4
+- https://github.com/EbookFoundation/free-programming-books https://ebookfoundation.github.io/free-programming-books/ 366k #ebook
+- https://github.com/plait-board/drawnix https://drawnix.com/ (whiteboard tool) #cn 6k5 https://trendshift.io/repositories/13979 https://hellogithub.com/en/repository/plait-board/drawnix https://hellogithub.com/en/repository/beego/beego
+- https://github.com/TheAlgorithms/Java #algorithm 63k
+- https://github.com/puckeditor/puck #fe #editor https://demo.puckeditor.com/edit 8k6
+- https://github.com/RSSNext/Folo https://folo.is/ #rss 32k3
+- https://github.com/GitHubDaily/GitHubDaily #collection #cn 40k5
