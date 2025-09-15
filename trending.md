@@ -329,3 +329,8 @@
 - https://github.com/vercel/examples 4k5
 - https://github.com/twitter/the-algorithm 65k7
 - https://github.com/ntdevlabs/tiny11builder 13k2
+
+
+## 15.09.25
+- https://github.com/simdjson/simdjson (parsing gigabyte json) https://simdjson.org/ 21k8
+- https://github.com/trueadm/ripple (Typescript UI) https://ripplejs.com/ 4k5 
