@@ -342,3 +342,5 @@
 - https://github.com/CopilotKit/CopilotKit (React UI + elegant infrastructure for AI Copilots, AI chatbot) 23k8 https://docs.copilotkit.ai/
 - https://github.com/MatsuriDayo/NekoBoxForAndroid (universal proxy toolchain) https://matsuridayo.github.io/ 16k2
 - https://github.com/9001/copyparty 30k7 (Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file)
+- https://github.com/cnlohr/rawdrawandroid (Build android apps without any java, entirely in C and Make) 4k1
+- https://github.com/Wan-Video/Wan2.2 (About Wan: Open and Advanced Large-Scale Video Generative Models) https://wan.video/ 6k4
