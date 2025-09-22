@@ -157,7 +157,7 @@
 - https://github.com/ibilux/MobyDroid #android
 ### 20.04.25
 - https://github.com/kamranahmedse/developer-roadmap #important https://roadmap.sh/
-- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- *https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools 87k1
 - https://github.com/1Panel-dev/1Panel
 - https://github.com/elie222/inbox-zero
 - https://github.com/public-apis/public-apis https://apilayer.com
@@ -318,7 +318,7 @@
 
 ## 25.08.25
 - https://github.com/winapps-org/winapps (Run Windows apps such as Microsoft in Linux) 6k4
-- https://github.com/EbookFoundation/free-programming-books https://ebookfoundation.github.io/free-programming-books/ 366k #ebook
+- *https://github.com/EbookFoundation/free-programming-books https://ebookfoundation.github.io/free-programming-books/ 366k #ebook
 - https://github.com/plait-board/drawnix https://drawnix.com/ (whiteboard tool) #cn 6k5 https://trendshift.io/repositories/13979 https://hellogithub.com/en/repository/plait-board/drawnix https://hellogithub.com/en/repository/beego/beego
 - https://github.com/TheAlgorithms/Java #algorithm 63k
 - https://github.com/puckeditor/puck #fe #editor https://demo.puckeditor.com/edit 8k6
@@ -334,3 +334,11 @@
 ## 15.09.25
 - https://github.com/simdjson/simdjson (parsing gigabyte json) https://simdjson.org/ 21k8
 - https://github.com/trueadm/ripple (Typescript UI) https://ripplejs.com/ 4k5 
+
+## 22.09.25
+- https://github.com/LazyVim/LazyVim 22k8
+- https://github.com/WECENG/ticket-purchase (Appium) 2k8 #cn
+- https://github.com/WebGoat/WebGoat #security 8k1 https://owasp.org/www-project-webgoat/
+- https://github.com/CopilotKit/CopilotKit (React UI + elegant infrastructure for AI Copilots, AI chatbot) 23k8 https://docs.copilotkit.ai/
+- https://github.com/MatsuriDayo/NekoBoxForAndroid (universal proxy toolchain) https://matsuridayo.github.io/ 16k2
+- https://github.com/9001/copyparty 30k7 (Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file)
