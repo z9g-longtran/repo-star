@@ -254,7 +254,7 @@
 
 ### 15.7.25
 - https://github.com/vercel/commerce https://demo.vercel.store/
-- https://github.com/OpenCut-app/OpenCut https://opencut.app/
+- https://github.com/OpenCut-app/OpenCut https://opencut.app/ 35k2
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/comfyanonymous/ComfyUI
 - https://github.com/leaningtech/webvm https://webvm.io/
@@ -344,3 +344,10 @@
 - https://github.com/9001/copyparty 30k7 (Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file)
 - https://github.com/cnlohr/rawdrawandroid (Build android apps without any java, entirely in C and Make) 4k1
 - https://github.com/Wan-Video/Wan2.2 (About Wan: Open and Advanced Large-Scale Video Generative Models) https://wan.video/ 6k4
+
+## 24.09.25
+- https://github.com/LadybirdBrowser/ladybird 48k4 (browser) https://ladybird.org/
+- https://github.com/eslint/eslint
+- *https://github.com/mtdvio/every-programmer-should-know (playlist) 90k8
+- https://github.com/Kludex/uvicorn https://uvicorn.dev/ 9k8
+- https://github.com/gin-gonic/gin https://gin-gonic.com/ 84k3
