@@ -351,3 +351,9 @@
 - *https://github.com/mtdvio/every-programmer-should-know (playlist) 90k8
 - https://github.com/Kludex/uvicorn https://uvicorn.dev/ 9k8
 - https://github.com/gin-gonic/gin https://gin-gonic.com/ 84k3
+
+## 25.09.25
+- https://github.com/cloudflare/capnweb 1k8 (grpc on JS)
+- https://github.com/istio/istio https://istio.io/ 37k8 (observe service)
+- https://github.com/freqtrade/freqtrade https://www.freqtrade.io/en/stable/ 43k (crypto trading bot)
+- https://github.com/bytedance/Dolphin (Document Image) 6k5
