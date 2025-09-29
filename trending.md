@@ -279,7 +279,7 @@
 - https://github.com/wg-easy/wg-easy https://wg-easy.github.io/wg-easy/latest/ (wireguard VPN, admin UI)
 - https://github.com/trekhleb/javascript-algorithms 193k star
 - https://github.com/XTLS/Xray-core https://t.me/projectXray (v2ray-core)
-- https://github.com/jellyfin/jellyfin https://jellyfin.org/ (free softward media system, api & backend)
+- https://github.com/jellyfin/jellyfin https://jellyfin.org/ (free softward media system, api & backend) 44k
 - https://github.com/LadybirdBrowser/ladybird https://ladybird.org/ (truly independent webbrowser)
 - https://github.com/sst/opencode https://opencode.ai/ (ai coding agent for build terminal)
 - https://github.com/TandoorRecipes/recipes https://docs.tandoor.dev/ (digital recipes)
@@ -357,3 +357,8 @@
 - https://github.com/istio/istio https://istio.io/ 37k8 (observe service)
 - https://github.com/freqtrade/freqtrade https://www.freqtrade.io/en/stable/ 43k (crypto trading bot)
 - https://github.com/bytedance/Dolphin (Document Image) 6k5
+
+## 29.09.25
+- https://github.com/humanlayer/humanlayer #AI 4k6 https://humanlayer.dev/code
+- https://github.com/typst/typst https://typst.app/ 46k1 markup-based typesetting
+- https://github.com/sst/opencode #AI 25k4 https://opencode.ai/ (AI coding agent, built for the terminal)
