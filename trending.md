@@ -362,3 +362,8 @@
 - https://github.com/humanlayer/humanlayer #AI 4k6 https://humanlayer.dev/code
 - https://github.com/typst/typst https://typst.app/ 46k1 markup-based typesetting
 - https://github.com/sst/opencode #AI 25k4 https://opencode.ai/ (AI coding agent, built for the terminal)
+
+## 01.10.25
+- https://github.com/harry0703/MoneyPrinterTurbo (Generate short videos with one click using AI LLM) 43k8
+- https://github.com/nextcloud/server #server 31k3
+- https://github.com/juliangarnier/anime https://animejs.com/ 64k4
