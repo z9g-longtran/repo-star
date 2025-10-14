@@ -160,7 +160,7 @@
 - *https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools 87k1
 - https://github.com/1Panel-dev/1Panel
 - https://github.com/elie222/inbox-zero
-- https://github.com/public-apis/public-apis https://apilayer.com
+- https://github.com/public-apis/public-apis #api https://apilayer.com 369k
 - https://github.com/browserbase/stagehand https://stagehand.dev/
 - https://github.com/nocobase/nocobase https://www.nocobase.com/
 - https://github.com/jwasham/coding-interview-university
@@ -367,3 +367,6 @@
 - https://github.com/harry0703/MoneyPrinterTurbo (Generate short videos with one click using AI LLM) 43k8
 - https://github.com/nextcloud/server #server 31k3
 - https://github.com/juliangarnier/anime https://animejs.com/ 64k4
+
+## 14.10.25
+- https://github.com/oven-sh/bun 81k3 (js runtime)
