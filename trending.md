@@ -370,3 +370,12 @@
 
 ## 14.10.25
 - https://github.com/oven-sh/bun 81k3 (js runtime)
+
+## 23.10.25
+- https://github.com/mountain-loop/yaak https://yaak.app/ (api desktop client) 12k4
+- https://github.com/servo/servo (embedded browser engine) https://servo.org/ 33k
+- https://github.com/guofei9987/blind_watermark 8k https://blindwatermark.github.io/blind_watermark/#/en/
+- https://github.com/drawdb-io/drawdb
+- https://github.com/clockworklabs/SpacetimeDB (multiplayer flash) 18k #rust
+- https://github.com/tauri-apps/tauri 97k #rust (secure desktop|mobile app)
+- https://github.com/remix-run/react-router 55k
