@@ -183,7 +183,7 @@
 ### 25.04.25
 - https://github.com/jujumilk3/leaked-system-prompts #important
 - https://github.com/kortix-ai/suna https://www.suna.so/
-- https://github.com/cloudcommunity/Free-Certifications https://free-certifications.com/
+- https://github.com/cloudcommunity/Free-Certifications https://free-certifications.com/ 41k5
 ### 27.04.25
 - https://github.com/opencode-ai/opencode
 ### 28.04.25
@@ -379,3 +379,8 @@
 - https://github.com/clockworklabs/SpacetimeDB (multiplayer flash) 18k #rust
 - https://github.com/tauri-apps/tauri 97k #rust (secure desktop|mobile app)
 - https://github.com/remix-run/react-router 55k
+
+## 29.10.25
+- https://github.com/iam-veeramalla/aws-devops-zero-to-hero https://www.youtube.com/@AbhishekVeeramalla 9k1
+- https://github.com/coinbase/x402 (A payments protocol for the internet) 3k3
+- https://github.com/juanfont/headscale 32k3
