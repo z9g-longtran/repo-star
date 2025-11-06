@@ -384,3 +384,6 @@
 - https://github.com/iam-veeramalla/aws-devops-zero-to-hero https://www.youtube.com/@AbhishekVeeramalla 9k1
 - https://github.com/coinbase/x402 (A payments protocol for the internet) 3k3
 - https://github.com/juanfont/headscale 32k3
+
+## 06.11.25
+- https://github.com/imthenachoman/How-To-Secure-A-Linux-Server 21k
