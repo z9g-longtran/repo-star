@@ -387,3 +387,11 @@
 
 ## 06.11.25
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server 21k
+
+## 17.11.25
+- https://github.com/traefik/traefik 58k4 #go (The Cloud Native Application Proxy)
+- https://github.com/bobeff/open-source-games 6k2
+- https://github.com/playcanvas/engine 12k https://playcanvas.com/ https://github.com/playcanvas/awesome-playcanvas
+- https://github.com/Zie619/n8n-workflows 41k1
+- https://github.com/milvus-io/milvus 39k2 (high-performance, cloud-native vector database built for scalable vector ANN search) https://milvus.io/
+- https://github.com/wolfpld/tracy 13k5 (Tracy supports profiling CPU)
