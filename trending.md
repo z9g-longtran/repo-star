@@ -395,3 +395,14 @@
 - https://github.com/Zie619/n8n-workflows 41k1
 - https://github.com/milvus-io/milvus 39k2 (high-performance, cloud-native vector database built for scalable vector ANN search) https://milvus.io/
 - https://github.com/wolfpld/tracy 13k5 (Tracy supports profiling CPU)
+## 6.12.25
+- https://github.com/rustfs/rustfs 15k #s3 https://rustfs.com/download/
+- https://github.com/assetnote/react2shell-scanner 567
+- https://github.com/TanStack/ai 1k1
+- *https://github.com/microsoft/VibeVoice 11k https://microsoft.github.io/VibeVoice/ https://github.com/microsoft/VibeVoice/blob/main/docs/vibevoice-realtime-0.5b.md https://colab.research.google.com/github/microsoft/VibeVoice/blob/main/demo/vibevoice_realtime_colab.ipynb
+- https://github.com/sinelaw/fresh 709 https://sinelaw.github.io/fresh/ (text editor in terminal)
+- https://github.com/psviderski/uncloud https://uncloud.run/ 3k8 (manage network host on docker)
+- https://github.com/lynx-family/lynx 13k7 (web to app native UI)
+- https://github.com/projectdiscovery/nuclei-templates 11k5 (security vulnerable)
+- https://github.com/anthropics/claude-quickstarts 11k
+- https://github.com/aquasecurity/trivy (security scanner)
