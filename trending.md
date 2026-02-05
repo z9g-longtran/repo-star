@@ -280,7 +280,7 @@
 - https://github.com/trekhleb/javascript-algorithms 193k star
 - https://github.com/XTLS/Xray-core https://t.me/projectXray (v2ray-core)
 - https://github.com/jellyfin/jellyfin https://jellyfin.org/ (free softward media system, api & backend) 44k
-- https://github.com/LadybirdBrowser/ladybird https://ladybird.org/ (truly independent webbrowser)
+- https://github.com/LadybirdBrowser/ladybird 58k3 #browser https://ladybird.org/ (truly independent webbrowser)
 - https://github.com/sst/opencode https://opencode.ai/ (ai coding agent for build terminal)
 - https://github.com/TandoorRecipes/recipes https://docs.tandoor.dev/ (digital recipes)
 - https://github.com/reflex-dev/reflex (https://reflex.dev/) webapp in pure python
@@ -406,3 +406,8 @@
 - https://github.com/projectdiscovery/nuclei-templates 11k5 (security vulnerable)
 - https://github.com/anthropics/claude-quickstarts 11k
 - https://github.com/aquasecurity/trivy (security scanner)
+## 5.2.26
+- https://github.com/HKUDS/nanobot #AI #Clawdbot 5k8
+- https://github.com/thedotmack/claude-mem #AI 22k6
+- https://github.com/ankitects/anki 26k2 (program-flashcard)
+- https://github.com/openclaw/openclaw #AI
