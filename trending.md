@@ -411,3 +411,7 @@
 - https://github.com/thedotmack/claude-mem #AI 22k6
 - https://github.com/ankitects/anki 26k2 (program-flashcard)
 - https://github.com/openclaw/openclaw #AI
+## 11.3.26
+- https://github.com/GoogleCloudPlatform/generative-ai 15k8
+- https://github.com/karpathy/nanochat 46k3
+
